@@ -22,7 +22,7 @@
     "axios": "^1.6.7",
     "bs58": "^5.0.0",
     "dotenv": "^16.0.1",
-    "next": "latest",
+    "next": "^15.1.5",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-toastify": "^9.0.5"
@@ -34,6 +34,7 @@
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
     "tailwindcss": "^3.1.2",
-    "typescript": "4.7.2"
+    "typescript": "4.7.2",
+    "yarn": "^1.22.22"
   }
 }
